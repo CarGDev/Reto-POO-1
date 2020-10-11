@@ -17,4 +17,4 @@ Retirar(float cantidad): se retira una cantidad a la cuenta, si restando la cant
 
 ## 3 Test
 
-![Test.jpg](./images/Test.jpg)
+![Test.jpg](./images/Test.JPG)
