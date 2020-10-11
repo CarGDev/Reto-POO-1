@@ -2,9 +2,6 @@
 
 class cuenta {
   constructor(_titular, _cantidad) {
-    // if (!_titular) {
-    //   throw new Error(`Missing parameter. Expected:'string'`)
-    // }
     this.titular = _titular || this.isRequired('string')
     this.cantidad = this.isEmpty(_cantidad)
   }

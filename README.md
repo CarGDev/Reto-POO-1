@@ -14,3 +14,7 @@ La clase Ejecutable es la que ejecutara los metodos ingresar & retirar.
 - La clase Cuente Tendrá dos métodos especiales:
 Ingresar(float cantidad): se ingresa una cantidad a la cuenta, si la cantidad introducida es negativa, no se hará nada.
 Retirar(float cantidad): se retira una cantidad a la cuenta, si restando la cantidad actual a la que nos pasan es negativa, la cantidad de la cuenta pasa a ser 0
+
+## 3 Test
+
+![Test.jpg](./images/Test.jpg)
